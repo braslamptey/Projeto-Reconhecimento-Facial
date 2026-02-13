@@ -1,0 +1,4 @@
+MAPEAMENTO DE PESSOAS
+==============================
+ID 1: LADRÃO (200 imagens)
+ID 200: CIVIL (200 imagens)

@@ -1,0 +1,20 @@
+{
+    "data_treinamento": "2025-12-30 09:04:21",
+    "total_imagens": 240,
+    "total_pessoas": 1,
+    "pessoas": {
+        "1": {
+            "nome": "Boie",
+            "tipo": "LADR\u00c3O",
+            "imagens": 240
+        }
+    },
+    "metadados": {
+        "1": {
+            "nome": "Boie",
+            "tipo": "LADR\u00c3O",
+            "data_cadastro": "2025-12-30 09:03:45",
+            "imagens": 80
+        }
+    }
+}
